@@ -23,9 +23,7 @@ Connect Firebase to applications on various platforms.
 <h5> 
   - Windows  application
 </h5>
-<h5> 
-  - web  application
-</h5>
+
 
 <h3> 
 Responsive design 
