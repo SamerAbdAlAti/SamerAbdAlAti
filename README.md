@@ -1,34 +1,26 @@
-### Hi 👋
-<h3>I'm Samer Abd Al Ati</h3>
-<dev>
-    <img src="https://user-images.githubusercontent.com/106412464/193400439-2b104355-e5fe-4585-8c29-c8197b0c63c8.png" width=100/>
-</dev>
+# Hi, I'm Samer Abd Al Ati 👋
 
-<h4>Flutter Developer</h4>
+**Backend Developer — Laravel & PHP**, with cross-platform mobile experience in Flutter.
 
-<p>
- work as a freelance flutter framework developer.
-solving errors in flutter code; Solving IDE installation problems, and 2 years of work as a flutter developer.
-Create API using Php as a backend; professional applications.
-Connect Firebase to applications on various platforms.
-</p>
+Programming since 2020, working professionally since 2021. Final-year Computer Science student at Al-Azhar University, Gaza.
 
-<h3>Cross-platform developer</h3>
-<h5> 
-  - Android application
-</h5>
-<h5> 
-  - iOS application
-</h5>
-<h5> 
-  - Windows  application
-</h5>
+I build and run real production systems, including:
+- A RADIUS / ISP billing platform
+- A bilingual e-commerce store
+- A published Quran mobile app (Flutter, Android)
 
+I use AI tools to work efficiently — while reviewing and understanding everything they produce.
 
-<h3> 
-Responsive design 
-</h3>
-<dev>
-    <img src="https://user-images.githubusercontent.com/106412464/193401136-7d93bf59-daec-4b3a-af56-29bfdbdb32ef.png" width=200/>
-</dev>
+## Tech Stack
 
+`Laravel` `PHP` `Filament` `MySQL` `REST APIs` `Flutter` `Dart` `Git`
+
+## Featured Projects
+
+- **[Daliya — Quran, Prayer Times & Qibla](https://github.com/SamerAbdAlAti/daliya-quran-showcase)** — production Flutter app: full Mushaf reader, background prayer alerts, live Qibla compass. Source kept private; repo has a README and downloadable release.
+- **Siva Radius** — RADIUS / ISP billing platform. _Showcase coming soon._
+- **Kanak Fyha** — bilingual e-commerce store. _Showcase coming soon._
+
+## Contact
+
+📧 samerabdalatidev@gmail.com
