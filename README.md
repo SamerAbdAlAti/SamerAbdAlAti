@@ -8,6 +8,7 @@ I build and run real production systems, including:
 - A RADIUS / ISP billing platform
 - A bilingual e-commerce store
 - A published Quran mobile app (Flutter, Android)
+- A Windows desktop backup automation tool
 
 I use AI tools to work efficiently — while reviewing and understanding everything they produce.
 
@@ -18,8 +19,9 @@ I use AI tools to work efficiently — while reviewing and understanding everyth
 ## Featured Projects
 
 - **[Daliya — Quran, Prayer Times & Qibla](https://github.com/SamerAbdAlAti/daliya-quran-showcase)** — production Flutter app: full Mushaf reader, background prayer alerts, live Qibla compass. Source kept private; repo has a README and downloadable release.
-- **Siva Radius** — RADIUS / ISP billing platform. _Showcase coming soon._
-- **Kanak Fyha** — bilingual e-commerce store. _Showcase coming soon._
+- **[Siva Radius](https://github.com/SamerAbdAlAti/siva-radius-showcase)** — production RADIUS / ISP billing & MikroTik hotspot management platform (Laravel). Source kept private; repo has a README and screenshots.
+- **[Kanak Fyha](https://github.com/SamerAbdAlAti/kanak-fyha-showcase)** — bilingual (AR/EN, full RTL) production e-commerce store (Laravel). Source kept private; repo has a README and screenshots.
+- **[SA Backups](https://github.com/SamerAbdAlAti/sa-backups-showcase)** — Windows desktop app for scheduled automatic backups to Google Drive (Flutter + Laravel backend). Source kept private; repo has a README and downloadable release.
 
 ## Contact
 
